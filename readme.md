@@ -1,4 +1,11 @@
+# Working on Azure DevOps project
+This project inlcudes Docker, Kubernetes, Azure DevOps to implement multi stage pipline to establish 
+  - Continuous Integration
+  - Continuous Delivery
+  - Continuous Deployment
+
 # Currency Exchange Micro Service - H2
+
 
 Run com.in28minutes.microservices.currencyconversionservice.CurrencyConversionServiceApplicationH2 as a Java Application.
 
